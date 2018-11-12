@@ -1,0 +1,84 @@
+body {
+	color: white;
+		background-color: lightblue;
+	font-family: helvetica;
+	font-weight: lighter; 
+}
+h1 {
+	color: white
+	font-weight:bold;
+	letter-spacing: px;
+	font-size: 40px
+	font-family: 'Roboto Condensed',sans-serif;
+}
+h2 {
+	color:white;
+	font-size:25px
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+a:hover {
+	color: orange;
+}
+.img-circle {
+	border-radius: 50%;
+}
+.shadowed {
+	box-shadow: 3px 3px 3px red;
+}
+.container {
+	width: 700px;
+	margin: 5px auto;
+}
+.card-white {
+	background-color: lightblue;
+	padding:40px;
+	box-shadow: 8px 10px 30px red
+	border-radius: 4px;
+	margin: 20px 8px;
+	text-align: center;
+}
+.btn-blue {
+	background-color: lightblue;
+	color: white;
+}
+.btn-blue:hover {
+	background-color: lightblue
+	color: pink;
+}
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px;
+	color: rgb(230,230,230);
+}
+.list-inline i:hover {
+	font-size: 50px;
+	color: orange;
+}
+#introduction p{
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
